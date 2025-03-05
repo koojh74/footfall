@@ -2,5 +2,8 @@
 
 offline footfall analytics
 
-kor: https://www.loplat.com
-eng: https://www.loplat.com/en
+https://koojh74.github.io/footfall/ssg_map.html
+
+
+
+Company homepage: https://www.loplat.com/en
