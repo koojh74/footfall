@@ -1,9 +1,9 @@
-# footfall by loplat
+# store deployment by loplat
 
-offline footfall analytics
+https://koojh74.github.io/footfall/ehl_map.html
 
-https://koojh74.github.io/footfall/ssg_map.html
-
+emart, lottemart, homeplus
+store locations and their coverages using voronoi diagram
 
 
 Company homepage: https://www.loplat.com/en
